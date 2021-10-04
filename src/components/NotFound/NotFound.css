@@ -1,0 +1,15 @@
+.notfound-container{
+    min-height: 700px;
+}
+.four-zero-four{
+    font-size: 8rem;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.right img {
+    filter: grayscale(100%);
+  }

@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/ae17a348-78ed-496e-a0b7-a1c7098a3ad0-ce63b370631f.small.jpeg",
+        "title": "Introduction to Cloud Development with HTML5, CSS3, and JavaScript",
+        "description": "Learn the key tools and programming languages to bootstrap your career as a Cloud Developer. Get started with web development using HTML5, CSS3, JavaScript and GitHub.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!"
+    },
+    {
+        "id": 2,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/4633ab16-80c5-48c4-a656-564b89bf4349-cc99a1b889e3.small.png",
+        "title": "Developing Cloud Applications with Node.js and React",
+        "description": "Learn how to develop and deploy web applications with JavaScript frameworks. Create server-side applications using Node.js and develop the front-end using React. Deploy the app on Cloud.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!"
+    },
+    {
+        "id": 3,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/910f3ce1-1ffb-4bc1-99ff-86f8d5471851-b4e28cd06301.small.jpg",
+        "title": "Data Structures and Software Design",
+        "description": "Learn how to select, apply, and analyze the most appropriate data representations in your code and design high quality software that is easy to understand and modify.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "Knowing how to code is only part of the skills needed to become a professional software developer.This course, part of the CS Essentials for Software Development Professional Certificate program, will take your skills to the next level"
+    },
+    {
+        "id": 4,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/32f1ba67-31e7-4b85-aa65-a4687036231c-80139b7286a9.small.png",
+        "title": "CSS Basics",
+        "description": "Learn how to take your Web pages from bland to bold with the power of CSS styling.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "This course is part of W3C's Front-End Web Developer Professional Certificate. Have you just begun your journey into Web development? This course introduces you to the basics of Web design and teach you how to style your Web site for a professional look and feel."
+    },
+    {
+        "id": 5,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/1a666720-9507-4ea7-992e-8a956c83d775-d70e7856c814.small.png",
+        "title": "HTML5 and CSS Fundamentals",
+        "description": "Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "Learn the basic building blocks of Web design and style – HTML5 and CSS – to give your site a professional look and feel. We guide you step-by-step in how to use the latest Web standards to create a site to be proud of."
+    },
+    {
+        "id": 6,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/776db6bd-54a0-4625-ba3d-1204fb922859-1df9ac41ffdf.small.jpg",
+        "title": "HTML5 Coding Essentials and Best Practices",
+        "description": "Learn how to write Web pages and Web sites by mastering HTML5 coding techniques and best practices.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "HTML5 is the standard language of the Web, developed by W3C. For application developers and industry, HTML5 represents a set of features that people are able to rely on for years to come. HTML5 is supported on a wide variety of devices, lowering the cost of creating rich applications to reach users everywhere."
+    },
+    {
+        "id": 7,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/6d40d803-76af-452b-8609-0dbadbe37fee-1577921cd54a.small.jpg",
+        "title": "HTML5 Apps and Games",
+        "description": "Today, developers are increasingly moving from native to HTML5-based apps. Increase your ability to design and deliver innovative services on the Web!",
+        "aboutCOurse": "About this course",
+        "courseDescription": "Want to learn advanced HTML5 tips and techniques? This is the course for you! Find out more about the powerful Web features that will help you create great content and apps. In this course, we continue the exploration of HTML5-based APIs, but also introduce some advanced features related to HTML5, such as Web components, advanced multimedia, audio for music and games, etc."
+    },
+    {
+        "id": 8,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/c50943b5-3375-4d50-9f91-911930551603-5703bb2a02c8.small.png",
+        "title": "JavaScript Introduction",
+        "description": "Learn JavaScript, a Web development programming language, to add interactivity to your Web pages, and become an expert Web developer.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "JavaScript lets you add interactive features to your Web sites, including dynamically updated content, controlled multimedia, animated images, and much more. Developed in partnership between W3C and University Côte d'Azur, this introductory course has been designed to help Web developers have an understanding of the basic concepts of the language. We present JavaScript best practices by means of many interactive examples, some of which being demonstrated in live coding videos."
+    },
+    {
+        "id": 9,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/d840294c-0405-4806-9b23-13ba4c75b77b-cd92388f8d85.small.jpeg",
+        "title": "Web Application Technologies and Django",
+        "description": "This first course in Django for Everybody explores the basic structure of a web application and how web browsers interact with web servers. This course Hypertext Transfer Protocol (HTTP), an introduction of Hypertext Markup Language (HTML), along with the overall structure of a Django application.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the Hypertext Transfer Protocol (HTTP) request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the overall structure of a Django application. We will explore the Model-View-Controller (MVC) pattern for web applications and how it relates to Django. You will learn how to deploy a Django application using a service like PythonAnywhere so that it is available over the Internet."
+    },
+    {
+        "id": 10,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/a3186510-c1f0-434a-a22a-93df47bd2a21-3cee14ade137.small.jpeg",
+        "title": "Building Web Applications in Django",
+        "description": "This second course in Django for Everybody explores data models in Django and how it communicates with a database. This course also explores basic Structured Query Language (SQL) and database modeling and how they work in the Django model.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "In this course, you will learn how Django communicates with a database through model objects. You will explore Object-Relational Mapping (ORM) for database access and how Django models implement this pattern. We will review the Object-Oriented (OO) pattern in Python. You will learn basic Structured Query Language (SQL) and database modeling, including one-to-many and many-to-many relationships and how they work in both the SQL and Django models. You will learn how to use the Django console and scripts to work with your application objects interactively."
+    },
+    {
+        "id": 11,
+        "img": "https://prod-discovery.edx-cdn.org/media/course/image/8f9d9f6f-daa0-451e-9a2c-b9ce747d3ac7-03c656a04313.small.jpeg",
+        "title": "Django Features and Libraries",
+        "description": "This third course in Django for Everybody explores building Django-based web applications through the use of cookies, sessions, and the authentication processes in Django. You will develop a simple web application and learn how an application moves from development to production.",
+        "aboutCOurse": "About this course",
+        "courseDescription": "In this course, you will learn how to build Django-based web applications suitable for use by end users. You will learn about cookies, sessions, and authentication processes in Django. You will build navigation into your applications and explore ways to easily improve the look and feel of Django applications. You will begin to develop a simple application to support a classified ads website that will walk you through many of the issues and techniques that you encounter in website development. You will also learn how to move an application from development to production."
+    }
+
+]
