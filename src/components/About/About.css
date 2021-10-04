@@ -1,0 +1,13 @@
+.contact-us-btn{
+    background-color: transparent;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 12px 30px;
+    color: black;
+    transition: background-color .5s;
+}
+.contact-us-btn:hover{
+    background-color: gray;
+    border: 2px solid gray;
+    color: white;
+}
