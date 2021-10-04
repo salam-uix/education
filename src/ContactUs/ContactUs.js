@@ -11,7 +11,9 @@ const ContactUs = () => {
             <div className="bg-dark py-4 mb-5">
                 <MenuBar></MenuBar>
             </div>
-            <img className="contact-page-img" src="https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80" alt="" />
+            <div className="img-container">
+                <img className="contact-page-img img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVtht90KIU7mBoP8deMS4RYwv1IK73m04SQ&usqp=CAU" alt="" />
+            </div>
             <div className="container contact-container mt-5 mb-5">
                 <Row xs={1} md={2} className="g-4">
                     <div>
