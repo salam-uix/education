@@ -3,11 +3,11 @@
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
     height: 780px;
     width: 100%;
-    /* border: 1px solid red; */
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    padding: 25px 0;
   }
   .title {
     color: white;
@@ -26,4 +26,8 @@
   .read-me-btn:hover {
     background-color: lightgrey;
     color: black;
+}
+.header-slogan {
+  margin-top: 17rem;
+  padding: 0 83px;
 }
