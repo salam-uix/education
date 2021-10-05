@@ -18,6 +18,9 @@ const Services = () => {
             <div className="bg-dark py-4 mb-5">
                 <MenuBar></MenuBar>
             </div>
+            <div className="mb-5">
+                <img className="img-fluid" src="https://www.promethiumitsolution.com/assets/imagecontents/banner-our-services-1443074773.png" alt="" />
+            </div>
             <Row xs={1} md={3} className="g-4">
                 {
                     services.map(service => <Service

@@ -12,7 +12,7 @@ const ContactUs = () => {
                 <MenuBar></MenuBar>
             </div>
             <div className="img-container">
-                <img className="contact-page-img img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVtht90KIU7mBoP8deMS4RYwv1IK73m04SQ&usqp=CAU" alt="" />
+                <img className="contact-page-img img-fluid" src="https://images.squarespace-cdn.com/content/v1/5810ef11ff7c50a8816a8a54/1514402583738-BZP2SKHKEFNEN0M6SVSR/Contact-us-banner.png?format=2500w" alt="" />
             </div>
             <div className="container contact-container mt-5 mb-5">
                 <Row xs={1} md={2} className="g-4">
